@@ -13,5 +13,6 @@
 
 if ( isset($_GET["user"])){
     echo "Usuari:".$_GET["user"]."<br/>\n";
+    echo "okk"
 }
 ?>
