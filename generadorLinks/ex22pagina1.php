@@ -4,5 +4,5 @@
 
     <input type="number" name="quantitat">
     <br>
-    <input type="submit" value="enviar">
+    <input type="submit" value="enviar">   
 </form>
