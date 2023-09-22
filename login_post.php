@@ -1,6 +1,6 @@
 <h2>Login</h2>
 
-<form method="post" action="tu_script.php">
+<form method="post">
     <input type="text" name="user">
     <br>
     <input type="password" name="pass" placeholder="password">
